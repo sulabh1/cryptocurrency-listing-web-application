@@ -1,0 +1,18 @@
+.tableRow {
+  margin: 10px;
+  height: 70px;
+  font-family: sans-serif;
+}
+.tableRow td {
+  color: #fff;
+}
+
+.button {
+  background-color: #f0cf63;
+  border-radius: 20px;
+  font-family: sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  padding: 5px;
+  color: #050505c9;
+}
